@@ -5,7 +5,7 @@
 # Skills
 - Windows
 - Javascript Python
-- Engine,Frameworksは学習中
+- Engine,Frameworksを学習中
 - 基本情報技術者試験を学習中
 
 # Works
