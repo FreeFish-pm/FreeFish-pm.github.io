@@ -14,7 +14,7 @@
   - [作品1](https://github.com/FreeFish-pm/assessment)
 
 # Contact
-- [Mail](takumi.pm24@gmail.com)
+- [Mail](mailto:takumi.pm24@gmail.com)
 
 # History
 - - 2022年 角川ドワンゴ学園 [N高等学校](https://nnn.ed.jp/) 在学中
